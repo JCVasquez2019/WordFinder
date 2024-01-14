@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DTqgDE56GoH94A2RV1ztK5NVGxnWXbKk4aiskp0xb63IqvXSVVpxtt8NOH32KQo+M4z7oQTYz95/sBNMw46vqQ==",
+  "dgSpecHash": "coY3Qz/AQj5zcbFfc9tFpNNshoTsD5ykOYM39jRK7rbdbHfuXeBsxpF12ICTdE9xYqe4FWSzwkeILUDEmReYGg==",
   "success": true,
-  "projectFilePath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj",
+  "projectFilePath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

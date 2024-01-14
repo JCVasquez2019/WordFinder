@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.API\\WordFinder.API.csproj": {}
+    "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.API\\WordFinder.API.csproj": {}
   },
   "projects": {
-    "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.API\\WordFinder.API.csproj": {
+    "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.API\\WordFinder.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.API\\WordFinder.API.csproj",
+        "projectUniqueName": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.API\\WordFinder.API.csproj",
         "projectName": "WordFinder.API",
-        "projectPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.API\\WordFinder.API.csproj",
+        "projectPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.API\\WordFinder.API.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.API\\obj\\",
+        "outputPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj": {
-                "projectPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj"
+              "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj": {
+                "projectPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj"
               },
-              "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\WordFinder.Infrastructure.csproj": {
-                "projectPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\WordFinder.Infrastructure.csproj"
+              "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\WordFinder.Infrastructure.csproj": {
+                "projectPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\WordFinder.Infrastructure.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj": {
+    "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj",
+        "projectUniqueName": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj",
         "projectName": "WordFinder.Application",
-        "projectPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj",
+        "projectPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Application\\obj\\",
+        "outputPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj": {
-                "projectPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj"
+              "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj": {
+                "projectPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj"
               }
             }
           }
@@ -172,14 +172,14 @@
         }
       }
     },
-    "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj": {
+    "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj",
+        "projectUniqueName": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj",
         "projectName": "WordFinder.Domain",
-        "projectPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj",
+        "projectPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Domain\\WordFinder.Domain.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Domain\\obj\\",
+        "outputPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -229,14 +229,14 @@
         }
       }
     },
-    "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\WordFinder.Infrastructure.csproj": {
+    "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\WordFinder.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\WordFinder.Infrastructure.csproj",
+        "projectUniqueName": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\WordFinder.Infrastructure.csproj",
         "projectName": "WordFinder.Infrastructure",
-        "projectPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\WordFinder.Infrastructure.csproj",
+        "projectPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\WordFinder.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\obj\\",
+        "outputPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -252,8 +252,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj": {
-                "projectPath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj"
+              "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj": {
+                "projectPath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj"
               }
             }
           }

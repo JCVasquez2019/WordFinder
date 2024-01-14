@@ -3,7 +3,7 @@
 Web API to create a matrix of chars and find words on it, there are 3 endpoints where yo can create a matrix from a array of strings and Find words.
 
 This Web API was built with clean architecture, using MediatR which helps in decoupling the components of an application, and using Repository and Unit Of Work pattern to data access.
-{Image1}
+![webapi](img/WebAPI.JPG)
 
 ## Matrix
 ### Create
@@ -38,7 +38,7 @@ For example:
 ```
 ### Get by ID
 You can get a matrix by ID, using a GET endpoint:
- {image2}
+![getbyid](img/GetByID.JPG)
 
 
 ### Default Data

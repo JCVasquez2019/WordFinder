@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "72Firyx+EajuRmaDsUBTLeB7bSOOAwvfZEXETdo5Fksx0v6UBlBpmtQhrC3UVSIGM7txBCYi+Jws6D9ddwqDlQ==",
+  "dgSpecHash": "LKtjlvKMDequMC9tU6/08+zUMFO121uBzjCcRjjTSPayzEeQWgmN+T+7xn3KnZNxTJu1CNZ5gE4PUoX/PrG7gw==",
   "success": true,
-  "projectFilePath": "D:\\K27\\Individuales\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj",
+  "projectFilePath": "D:\\K27\\Proyectos\\WordFinder\\WordFinder\\WordFinder\\WordFinder.Application\\WordFinder.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

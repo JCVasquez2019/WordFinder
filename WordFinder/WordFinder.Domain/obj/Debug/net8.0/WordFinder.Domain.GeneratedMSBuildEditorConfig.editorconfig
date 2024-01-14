@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WordFinder.Domain
-build_property.ProjectDir = D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\
+build_property.ProjectDir = D:\K27\Proyectos\WordFinder\WordFinder\WordFinder\WordFinder.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
