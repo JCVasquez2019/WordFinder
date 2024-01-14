@@ -1,0 +1,17 @@
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\obj\Debug\net8.0\WordFinder.Infrastructure.csproj.AssemblyReference.cache
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\obj\Debug\net8.0\WordFinder.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\obj\Debug\net8.0\WordFinder.Infrastructure.AssemblyInfoInputs.cache
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\obj\Debug\net8.0\WordFinder.Infrastructure.AssemblyInfo.cs
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\obj\Debug\net8.0\WordFinder.Infrastructure.csproj.CoreCompileInputs.cache
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\bin\Debug\net8.0\WordFinder.Infrastructure.deps.json
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\bin\Debug\net8.0\WordFinder.Infrastructure.dll
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\bin\Debug\net8.0\WordFinder.Infrastructure.pdb
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\bin\Debug\net8.0\WordFinder.Application.dll
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\bin\Debug\net8.0\WordFinder.Domain.dll
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\bin\Debug\net8.0\WordFinder.Application.pdb
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\bin\Debug\net8.0\WordFinder.Domain.pdb
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\obj\Debug\net8.0\WordFinder.Infrastructure.csproj.CopyComplete
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\obj\Debug\net8.0\WordFinder.Infrastructure.dll
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\obj\Debug\net8.0\refint\WordFinder.Infrastructure.dll
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\obj\Debug\net8.0\WordFinder.Infrastructure.pdb
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Infrastructure\obj\Debug\net8.0\ref\WordFinder.Infrastructure.dll

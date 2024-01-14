@@ -1,0 +1,12 @@
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\bin\Debug\net8.0\WordFinder.EventBus.Messages.deps.json
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\bin\Debug\net8.0\WordFinder.EventBus.Messages.dll
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\bin\Debug\net8.0\WordFinder.EventBus.Messages.pdb
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\obj\Debug\net8.0\WordFinder.EventBus.Messages.csproj.AssemblyReference.cache
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\obj\Debug\net8.0\WordFinder.EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\obj\Debug\net8.0\WordFinder.EventBus.Messages.AssemblyInfoInputs.cache
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\obj\Debug\net8.0\WordFinder.EventBus.Messages.AssemblyInfo.cs
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\obj\Debug\net8.0\WordFinder.EventBus.Messages.csproj.CoreCompileInputs.cache
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\obj\Debug\net8.0\WordFinder.EventBus.Messages.dll
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\obj\Debug\net8.0\refint\WordFinder.EventBus.Messages.dll
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\obj\Debug\net8.0\WordFinder.EventBus.Messages.pdb
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.EventBus.Messages\obj\Debug\net8.0\ref\WordFinder.EventBus.Messages.dll

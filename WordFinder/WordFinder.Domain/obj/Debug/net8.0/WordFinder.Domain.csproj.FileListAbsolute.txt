@@ -1,0 +1,11 @@
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\bin\Debug\net8.0\WordFinder.Domain.deps.json
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\bin\Debug\net8.0\WordFinder.Domain.dll
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\bin\Debug\net8.0\WordFinder.Domain.pdb
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\obj\Debug\net8.0\WordFinder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\obj\Debug\net8.0\WordFinder.Domain.AssemblyInfoInputs.cache
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\obj\Debug\net8.0\WordFinder.Domain.AssemblyInfo.cs
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\obj\Debug\net8.0\WordFinder.Domain.csproj.CoreCompileInputs.cache
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\obj\Debug\net8.0\WordFinder.Domain.dll
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\obj\Debug\net8.0\refint\WordFinder.Domain.dll
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\obj\Debug\net8.0\WordFinder.Domain.pdb
+D:\K27\Individuales\WordFinder\WordFinder\WordFinder.Domain\obj\Debug\net8.0\ref\WordFinder.Domain.dll
